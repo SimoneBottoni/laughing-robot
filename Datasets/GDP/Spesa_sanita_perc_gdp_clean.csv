@@ -96,7 +96,7 @@ Indonesia,IDN,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,3.12449094
 IDA only,IDX,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,4.70268529173091
 India,IND,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,3.65833057
 Ireland,IRL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.37830423
-"Iran, Islamic Rep.",IRN,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,8.10277065
+Iran,IRN,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,8.10277065
 Iraq,IRQ,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,3.31216318
 Iceland,ISL,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,8.29151473
 Israel,ISR,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.31441124
@@ -110,7 +110,7 @@ Kyrgyz Republic,KGZ,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.62
 Cambodia,KHM,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.08196009
 Kiribati,KIR,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,11.85986702
 St. Kitts and Nevis,KNA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.67183165
-"Korea, Rep.",KOR,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.33752488
+South Korea,KOR,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.33752488
 Kuwait,KWT,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,3.9039449999999998
 Latin America & Caribbean (excluding high income),LAC,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,8.59066860354515
 Lao PDR,LAO,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,2.36087478
@@ -220,7 +220,7 @@ Uganda,UGA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.16503174
 Ukraine,UKR,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.72703787
 Upper middle income,UMC,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.8540287868638705
 Uruguay,URY,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,9.06075776
-United States,USA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,17.07341533
+US,USA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,17.07341533
 Uzbekistan,UZB,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.33520937
 St. Vincent and the Grenadines,VCT,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,3.56292208
 "Venezuela, RB",VEN,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,3.21708435
