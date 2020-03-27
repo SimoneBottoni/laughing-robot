@@ -1,7 +1,15 @@
 # Data Science for Business
 Project for Data Science for Business 2020. Group 5: Simone Bottoni, Luca Bertaccini, Roberto Ripamonti.
 
-#### Info
+#### Struttura Repository
+
+- __Datasets:__ contiene i vari datasets utilizzati suddivisi in base alla provenienza. All'interno si trovano i csv nativi, i csv con i dati ripuliti e i notebook python contenenti il codice per la pulizia del dataset.
+- __Statistics:__ contiene i vari notebook python suddivisi in base alla tipologia di dataset analizzato.
+- __ScriptPostgres:__ contiene il notebook python con il codice per popolare il database PostgreSQL (eventualmente dovrà essere modificato l'url, l'utente, la password e il nome del database in caso di un utilizzo non in locale e non utilizzando il backup del database presente all'interno della cartella "DataBase BackUp").
+- __DataBase BackUp:__ contiene il backup del database contenente i dati relativi ai datasets ripuliti utilizzati nella fase di analisi e dunque nei notebook della cartella "Statistics".
+- __Graph Explain:__ contiene un notebook in cui andremo a commentare i grafici ricavati precedentemente.
+
+#### Informazioni sull'analisi effettuata
 
 L'analisi che andremo ad affrontare servirà a determinare eventuali analogie tra l'espansione del COVID-19 all'interno del territorio italiano e la sua espansione nel territorio francese.
 
@@ -11,7 +19,7 @@ Useremo anche i dati relativi ai primi mesi del contagio, per analizzare l'espan
 
 Incroceremo i dati sopra citati con la ricchezza e l'eventuale spesa pubblica per la sanità, in modo da ricercare eventuali correlazioni con l'espansione dell'epidemia.
 
-#### Link ai dataset utilizzati:
+#### Riferimenti ai dataset utilizzati:
 
 ```bash
 https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2018&start=2018&view=bar
