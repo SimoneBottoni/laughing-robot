@@ -1,0 +1,9 @@
+ProtezioneCivile: https://github.com/pcm-dpc/COVID-19
+Francia: https://github.com/opencovid19-fr/data
+Open/Line_List: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+Mondo: https://www.kaggle.com/imdevskp/corona-virus-report
+
+Istat: http://dati.istat.it/Index.aspx?DataSetCode=DCIS_POPRES1
+
+GDP: https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2018&start=2018&view=bar
+Health: https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS

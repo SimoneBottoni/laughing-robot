@@ -1,3 +1,0 @@
-https://data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2018&start=2018&view=bar
-
-https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS
