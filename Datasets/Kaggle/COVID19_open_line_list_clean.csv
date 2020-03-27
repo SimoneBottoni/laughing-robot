@@ -11769,11 +11769,11 @@ age,sex,city,province,country,inWuhan,date_confirmation,symptoms,chronic_disease
 ,male,,,Algeria,0.0,25.02.2020,,0.0,False,False
 25,male,Goeppingen,Baden-Wuerttemberg,Germany,0.0,25.02.2020,,0.0,False,False
 ,female,Annecy,Auvergne-Rhone-Alpes,France,0.0,26.02.2020,,0.0,False,False
-33,female,Paris,Ile-de-France,France,0.0,25.02.2020-26.02.2020,,0.0,False,False
-55,male,Annecy,Auvergne-Rhone-Alpes,France,0.0,25.02.2020-26.02.2020,,0.0,False,False
-55,male,Amiens,Hauts-de-France,France,0.0,25.02.2020-26.02.2020,,0.0,False,False
-36,male,Strasbourg,Grand Est,France,0.0,25.02.2020-26.02.2020,,0.0,False,False
-60,male,Paris,Ile-de-France,France,0.0,25.02.2020-26.02.2020,,0.0,False,False
+33,female,Paris,Ile-de-France,France,0.0,,,0.0,False,False
+55,male,Annecy,Auvergne-Rhone-Alpes,France,0.0,,,0.0,False,False
+55,male,Amiens,Hauts-de-France,France,0.0,,,0.0,False,False
+36,male,Strasbourg,Grand Est,France,0.0,,,0.0,False,False
+60,male,Paris,Ile-de-France,France,0.0,,,0.0,False,False
 ,female,,Ticino,Switzerland,0.0,25.02.2020,,0.0,False,False
 ,,Innsbruck,Tyrol,Austria,0.0,25.02.2020,,0.0,False,False
 ,,Innsbruck,Tyrol,Austria,0.0,25.02.2020,,0.0,False,False
@@ -13126,9 +13126,9 @@ age,sex,city,province,country,inWuhan,date_confirmation,symptoms,chronic_disease
 ,female,Ben Gurion Airport,,Israel,0.0,21.02.2020,,0.0,False,False
 ,,,,Israel,0.0,23.02.2020,,0.0,False,False
 ,female,,,Israel,0.0,28.02.2020,,0.0,False,False
-,female,Sagamihara City,Kanagawa,Japan,,27.02.2020,"chills, headache, fatigue",0.0,False,False
-,male,Sagamihara City,Kanagawa,Japan,,27.02.2020,fever,0.0,False,False
-,male,Shizuoka City,Shizuoka,Japan,,27.02.2020,"cough, sore throat",0.0,False,False
+,female,Sagamihara City,Kanagawa,Japan,0.0,27.02.2020,"chills, headache, fatigue",0.0,False,False
+,male,Sagamihara City,Kanagawa,Japan,0.0,27.02.2020,fever,0.0,False,False
+,male,Shizuoka City,Shizuoka,Japan,0.0,27.02.2020,"cough, sore throat",0.0,False,False
 ,female,Setana,Hokkaido,Japan,0.0,28.02.2020,"cough, phlegm, fever 37 degrees",0.0,False,False
 ,male,Chitose,Hokkaido,Japan,0.0,28.02.2020,fever 39.0 ℃,0.0,False,False
 ,male,Fukagawa,Hokkaido,Japan,0.0,28.02.2020,"fever (38.0 ℃), Fatigue, difficulty walking",0.0,False,False
