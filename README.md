@@ -6,6 +6,7 @@ Project for Data Science for Business 2020. Group 5: Simone Bottoni, Luca Bertac
 - __Transformations Notebook:__ questo notebook contiene la transformation pipeline dei vari dataset utilizzati.
 - __Analysis Notebook:__ in questo notebook viene presentata l'analisi effettuata con i relativi grafici.
 - __PredictionNotebook:__ questo notebook contiene l'addestramento e l'analisi dei modelli realizzati.
+- __Totale:__ contiene i tre notebook precedenti.
 - __fitted_model:__ contiene i salvataggi dei modelli addestrati.
 - __Datasets:__ contiene i vari datasets utilizzati suddivisi in base alla provenienza. All'interno si trovano i csv nativi, i csv con i dati ripuliti e i notebook python contenenti il codice per la pulizia del dataset.
 - __Statistics:__ contiene i vari notebook python suddivisi in base alla tipologia di dataset analizzato.
