@@ -28,3 +28,9 @@ Health: https://data.worldbank.org/indicator/SH.XPD.CHEX.GD.ZS
 Containment Measures: https://www.kaggle.com/paultimothymooney/covid19-containment-and-mitigation-measures
 Temperature: https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
 ```
+
+#### Link a NB Viewer:
+
+```bash
+Prediction Notebook: https://nbviewer.jupyter.org/github/SimoneBottoni/laughing-robot/blob/9beb1904d1b8e154f9b1d05d903d7b448f41d8f7/PredictionNotebook.ipynb
+```
