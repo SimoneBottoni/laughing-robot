@@ -33,7 +33,7 @@ Temperature: https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-t
 #### Link a NB Viewer:
 
 ```bash
-Transformation Notebook: https://nbviewer.jupyter.org/github/SimoneBottoni/laughing-robot/blob/9beb1904d1b8e154f9b1d05d903d7b448f41d8f7/TransformationsNotebook.ipynb
+Transformation Notebook: https://nbviewer.jupyter.org/github/SimoneBottoni/laughing-robot/blob/e0296d44eb0194fb3d8cc8fa00551f18908802f5/TransformationsNotebook.ipynb
 Analysis Notebook: https://nbviewer.jupyter.org/github/SimoneBottoni/laughing-robot/blob/e0296d44eb0194fb3d8cc8fa00551f18908802f5/AnalysisNotebook.ipynb
-Prediction Notebook: https://nbviewer.jupyter.org/github/SimoneBottoni/laughing-robot/blob/9beb1904d1b8e154f9b1d05d903d7b448f41d8f7/PredictionNotebook.ipynb
+Prediction Notebook: https://nbviewer.jupyter.org/github/SimoneBottoni/laughing-robot/blob/e0296d44eb0194fb3d8cc8fa00551f18908802f5/PredictionNotebook.ipynb
 ```
